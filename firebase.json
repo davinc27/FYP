@@ -1,0 +1,29 @@
+{
+    "functions": {
+        "source": "functions",
+        "runtime": "nodejs18"
+    },
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "terra-iot",
+                    "appId": "1:610504886168:android:6fcdd0cb8af71c177e0ded",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "terra-iot",
+                    "configurations": {
+                        "android": "1:610504886168:android:6fcdd0cb8af71c177e0ded",
+                        "ios": "1:610504886168:ios:e4532649d996e1457e0ded",
+                        "macos": "1:610504886168:ios:e4532649d996e1457e0ded",
+                        "web": "1:610504886168:web:a5fc628b450c9db77e0ded",
+                        "windows": "1:610504886168:web:9322e2156d2e49d37e0ded"
+                    }
+                }
+            }
+        }
+    }
+}

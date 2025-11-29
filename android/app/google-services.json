@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610504886168",
+    "project_id": "terra-iot",
+    "storage_bucket": "terra-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610504886168:android:6fcdd0cb8af71c177e0ded",
+        "android_client_info": {
+          "package_name": "com.example.terra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX4UKZbiYijz89xe5ePbT9fMVdWPsW9FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
